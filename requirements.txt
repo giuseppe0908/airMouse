@@ -1,0 +1,3 @@
+opencv-python==4.13.0.92  # Trusted upstream OpenCV wheel used for local webcam capture and rendering.
+mediapipe==0.10.33  # Trusted official MediaPipe release used for offline hand landmark inference.
+PyAutoGUI==0.9.54  # Trusted stable PyAutoGUI release used for local mouse automation on macOS.
